@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="50dp"
+              android:layout_height="50dp"
+              android:gravity="center"
+              android:orientation="vertical">
+    <TextView
+
+        android:textColor="#e46542"
+        android:id="@+id/tv_itme"
+        android:layout_width="50dp"
+        android:layout_height="50dp"/>
+</LinearLayout>

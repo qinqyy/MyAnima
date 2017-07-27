@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false"
+    >
+<item android:duration="2000">
+    <layer-list >
+       <item android:drawable="@drawable/qt1"/>
+        <item android:drawable="@drawable/back"/>
+    </layer-list>
+</item>
+<item android:duration="2000"
+    android:drawable="@drawable/qt2"/>
+    <item
+        android:duration="2000"
+        android:drawable="@drawable/qt3"/>
+    <item
+        android:duration="2000"
+        android:drawable="@drawable/qt4"/>
+</animation-list>
